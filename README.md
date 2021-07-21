@@ -13,5 +13,4 @@ Sublime Text Editor
 Hosting-
 
 This repository is hosted on Netlify.com, an amazing site I found to host static websites for free which also lets you edit a part of the domain name.
-### To run the project: * To see the hosted site please visit: * To run the system in your local machine, clone the repo and run index.html file. ### Contribute-
-Feel free to clone the repo and suggest any new improvements and designs.
+### To run the project: * To see the hosted site please visit:https://jharkhandcovidbycharusingh.netlify.app/# *
